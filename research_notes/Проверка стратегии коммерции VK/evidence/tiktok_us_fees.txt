@@ -1,0 +1,888 @@
+Seller community
+Log in
+AI Seller Center
+ACE Toolkit
+Onboarding
+Get Started
+Integrate with TikTok Shop
+Manage Account
+Order Management
+Order Fulfillment
+Manage Products
+TikTok Shipping
+Ways to Sell
+Fulfillment & Logistics
+Promotions
+Marketing
+Growth
+Customers (CRM)
+Growth Opportunities
+Affiliate Center
+Customer Messages
+Account Closure
+Analytics
+Account Health
+Finances
+Receive Payments
+Referral Fees
+TikTok Shop Referral Fee Updates - 2024
+TikTok Shop Referral Fees in 2024 by Category
+Taxes
+Capital
+Others
+Agencies & Services
+Terms and Conditions
+Seller Spending Insights
+Affiliate Creatives for Ads (ACA) - Setting Commission Rates
+US Academy › Feature Guide › Seller › Finances › Referral Fees
+TikTok Shop Referral Fees in 2024 by Category
+Updated at:
+10/08/2026
+AI Summary
+
+Effective October 31, 2024 (GMT-8), referral fees drop from 6% to 5% for five jewelry sub-categories: Diamond, Gold, Jade, Platinum/Carat Gold, and Ruby/Sapphire/Emerald. Most other listed categories remain at 6%. Pre-Owned categories stay at 5%, and Collectibles/Pre-Owned sales above $10K are charged 3% on the portion over that amount.
+
+Category Referral Rates
+Effective October 31, 2024 00:00:00(GMT-8), we have lowered the referral fee from 6% to 5% for the following jewelry sub-categories:
+
+Jewelry Accessories & Derivatives+ Diamond
+Jewelry Accessories & Derivatives+ Gold
+Jewelry Accessories & Derivatives+ Jade
+Jewelry Accessories & Derivatives+ Platinum, Carat Gold
+Jewelry Accessories & Derivatives+ Ruby, Sapphire & Emerald
+Referral Fee = Referral Fee Rate × (Customer Payment + Platform Discount − Tax)
+The Referral Fee calculation base includes the shipping fee paid by the customer.
+This chart details out the latest referral fee rates by category.
+
+Level 1+Level 2 Category
+	Referral Fee Rate
+	Notes
+
+Automotive & Motorcycle+ Car Electronics
+	6%
+	
+
+Automotive & Motorcycle+ Car Exterior Accessories
+	6%
+	
+
+Automotive & Motorcycle+ Car Interior Accessories
+	6%
+	
+
+Automotive & Motorcycle+ Car Lights
+	6%
+	
+
+Automotive & Motorcycle+ Car Repair Tools
+	6%
+	
+
+Automotive & Motorcycle+ Car Washing & Maintenance
+	6%
+	
+
+Automotive & Motorcycle+ Motorcycle Accessories
+	6%
+	
+
+Automotive & Motorcycle+ Motorcycles
+	6%
+	
+
+Automotive & Motorcycle+ Quads, Motorhomes & Boats
+	6%
+	
+
+Baby & Maternity+ Baby Care & Health
+	6%
+	
+
+Baby & Maternity+ Baby Clothing & Shoes
+	6%
+	
+
+Baby & Maternity+ Baby Fashion Accessories
+	6%
+	
+
+Baby & Maternity+ Baby Furniture
+	6%
+	
+
+Baby & Maternity+ Baby Safety
+	6%
+	
+
+Baby & Maternity+ Baby Toys
+	6%
+	
+
+Baby & Maternity+ Baby Travel Gear
+	6%
+	
+
+Baby & Maternity+ Maternity Supplies
+	6%
+	
+
+Baby & Maternity+ Nursing & Feeding
+	6%
+	
+
+Beauty & Personal Care+ Bath & Body Care
+	6%
+	
+
+Beauty & Personal Care+ Eye & Ear Care
+	6%
+	
+
+Beauty & Personal Care+ Feminine Care
+	6%
+	
+
+Beauty & Personal Care+ Haircare & Styling
+	6%
+	
+
+Beauty & Personal Care+ Hand, Foot & Nail Care
+	6%
+	
+
+Beauty & Personal Care+ Makeup
+	6%
+	
+
+Beauty & Personal Care+ Men's Care
+	6%
+	
+
+Beauty & Personal Care+ Nasal & Oral Care
+	6%
+	
+
+Beauty & Personal Care+ Fragrance
+	6%
+	
+
+Beauty & Personal Care+ Personal Care Appliances
+	6%
+	
+
+Beauty & Personal Care+ Skincare
+	6%
+	
+
+Beauty & Personal Care+ Special Personal Care
+	6%
+	
+
+Books, Magazines & Audio+ Children's & Infants' Books
+	6%
+	
+
+Books, Magazines & Audio+ Economics & Management
+	6%
+	
+
+Books, Magazines & Audio+ Education & Schooling
+	6%
+	
+
+Books, Magazines & Audio+ Humanities & Social Sciences
+	6%
+	
+
+Books, Magazines & Audio+ Lifestyle & Hobbies
+	6%
+	
+
+Books, Magazines & Audio+ Literature & Art
+	6%
+	
+
+Books, Magazines & Audio+ Magazines & Newspapers
+	6%
+	
+
+Books, Magazines & Audio+ Science & Technology
+	6%
+	
+
+Books, Magazines & Audio+ Video & Music
+	6%
+	
+
+Collectibles+ Cultural Items
+	6%
+	Any portion of the sale over $10K, 3%
+
+Collectibles+ Entertainment
+	6%
+	Any portion of the sale over $10K, 3%
+
+Collectibles+ Sports Collectibles
+	6%
+	Any portion of the sale over $10K, 3%
+
+Collectibles+ Trading Cards & Accessories
+	6%
+	Any portion of the sale over $10K, 3%
+
+Computers & Office Equipment+ Computer Accessories
+	6%
+	
+
+Computers & Office Equipment+ Data Storage & Software
+	6%
+	
+
+Computers & Office Equipment+ Desktop & Laptop Components
+	6%
+	
+
+Computers & Office Equipment+ Desktop Computers, Laptops & Tablets
+	6%
+	
+
+Computers & Office Equipment+ Network Components
+	6%
+	
+
+Computers & Office Equipment+ Office Equipment
+	6%
+	
+
+Computers & Office Equipment+ Office Stationery & Supplies
+	6%
+	
+
+Fashion Accessories+ Clothes Accessories
+	6%
+	
+
+Fashion Accessories+ Costume Jewelry & Accessories
+	6%
+	
+
+Fashion Accessories+ Dressmaking Fabrics
+	6%
+	
+
+Fashion Accessories+ Eyewear
+	6%
+	
+
+Fashion Accessories+ Hair Accessories
+	6%
+	
+
+Fashion Accessories+ Hair Extensions & Wigs
+	6%
+	
+
+Fashion Accessories+ Fashion Watches & Accessories
+	6%
+	
+
+Food & Beverages+ Baking
+	6%
+	
+
+Food & Beverages+ Drinks
+	6%
+	
+
+Food & Beverages+ Pantry Food
+	6%
+	
+
+Food & Beverages+ Milk & Dairy
+	6%
+	
+
+Food & Beverages+ Snacks
+	6%
+	
+
+Food & Beverages+ Staples & Cooking Essentials
+	6%
+	
+
+Furniture+ Children's Furniture
+	6%
+	
+
+Furniture+ Commercial Furniture
+	6%
+	
+
+Furniture+ Furniture Parts
+	6%
+	
+
+Furniture+ Indoor Furniture
+	6%
+	
+
+Furniture+ Outdoor Furniture
+	6%
+	
+
+Health+ Alternative Medications & Treatments
+	6%
+	
+
+Health+ Nutrition & Wellness
+	6%
+	
+
+Health+ Medical Supplies
+	6%
+	
+
+Home Improvement+ Bathroom Fixtures
+	6%
+	
+
+Home Improvement+ Building Supplies
+	6%
+	
+
+Home Improvement+ Electrical Equipment & Supplies
+	6%
+	
+
+Home Improvement+ Garden Supplies
+	6%
+	
+
+Home Improvement+ Kitchen Fixtures
+	6%
+	
+
+Home Improvement+ Lights & Lighting
+	6%
+	
+
+Home Improvement+ Security & Safety
+	6%
+	
+
+Home Improvement+ Smart Home Systems
+	6%
+	
+
+Home Improvement+ Solar & Wind Power
+	6%
+	
+
+Home Supplies+ Bathroom Supplies
+	6%
+	
+
+Home Supplies+ Festive & Party Supplies
+	6%
+	
+
+Home Supplies+ Home Care Supplies
+	6%
+	
+
+Home Supplies+ Home Decor
+	6%
+	
+
+Home Supplies+ Home Organizers
+	6%
+	
+
+Home Supplies+ Laundry Tools & Accessories
+	6%
+	
+
+Home Supplies+ Miscellaneous Home
+	6%
+	
+
+Household Appliances+ Commercial Appliances
+	6%
+	
+
+Household Appliances+ Home Appliances
+	6%
+	
+
+Household Appliances+ Kitchen Appliances
+	6%
+	
+
+Household Appliances+ Large Home Appliances
+	6%
+	
+
+Jewelry Accessories & Derivatives+ Diamond
+	5%
+	
+
+Jewelry Accessories & Derivatives+ Gold
+	5%
+	
+
+Jewelry Accessories & Derivatives+ Jade
+	5%
+	
+
+Jewelry Accessories & Derivatives+ Platinum, Carat Gold
+	5%
+	
+
+Jewelry Accessories & Derivatives+ Ruby, Sapphire & Emerald
+	5%
+	
+
+Jewelry Accessories & Derivatives+ Amber
+	6%
+	
+
+Jewelry Accessories & Derivatives+ Artificial Gemstones
+	6%
+	
+
+Jewelry Accessories & Derivatives+ Mellite
+	6%
+	
+
+Jewelry Accessories & Derivatives+ Natural Crystal
+	6%
+	
+
+Jewelry Accessories & Derivatives+ Non-natural Crystal
+	6%
+	
+
+Jewelry Accessories & Derivatives+ Pearl
+	6%
+	
+
+Jewelry Accessories & Derivatives+ Semiprecious Stones
+	6%
+	
+
+Jewelry Accessories & Derivatives+ Silver
+	6%
+	
+
+Kids' Fashion+ Boys' Clothes
+	6%
+	
+
+Kids' Fashion+ Boys' Footwear
+	6%
+	
+
+Kids' Fashion+ Girls' Clothes
+	6%
+	
+
+Kids' Fashion+ Girls' Footwear
+	6%
+	
+
+Kids' Fashion+ Kids' Fashion Accessories
+	6%
+	
+
+Kitchenware+ Bakeware
+	6%
+	
+
+Kitchenware+ Bar & Wine Utensils
+	6%
+	
+
+Kitchenware+ Barbecue
+	6%
+	
+
+Kitchenware+ Cookware
+	6%
+	
+
+Kitchenware+ Cutlery & Tableware
+	6%
+	
+
+Kitchenware+ Drinkware
+	6%
+	
+
+Kitchenware+ Kitchen Knives
+	6%
+	
+
+Kitchenware+ Kitchen Utensils & Gadgets
+	6%
+	
+
+Kitchenware+ Tea & Coffeeware
+	6%
+	
+
+Luggage & Bags+ Bag Accessories
+	6%
+	
+
+Luggage & Bags+ Functional Bags
+	6%
+	
+
+Luggage & Bags+ Luggage & Travel Bags
+	6%
+	
+
+Luggage & Bags+ Men's Bags
+	6%
+	
+
+Luggage & Bags+ Women's Bags
+	6%
+	
+
+Menswear & Underwear+ Men's Bottoms
+	6%
+	
+
+Menswear & Underwear+ Men's Sleepwear & Loungewear
+	6%
+	
+
+Menswear & Underwear+ Men's Special Occasion Clothing
+	6%
+	
+
+Menswear & Underwear+ Men's Suits & Sets
+	6%
+	
+
+Menswear & Underwear+ Men's Tops
+	6%
+	
+
+Menswear & Underwear+ Men's Underwear & Socks
+	6%
+	
+
+PPE Auto Test Category L1+ Auto Test Category L2 001
+	6%
+	
+
+PPE Auto Test Category L1+ Auto Test Category L2 Leaf 001
+	6%
+	
+
+PPE Manual Test Category L1+ Manual Test Category L2 Leaf 003
+	6%
+	
+
+PPE Manual Test Category L1+ Manual Test Category L2 Leaf 004
+	6%
+	
+
+Pet Supplies+ Bird Supplies
+	6%
+	
+
+Pet Supplies+ Dog & Cat Accessories
+	6%
+	
+
+Pet Supplies+ Dog & Cat Clothing
+	6%
+	
+
+Pet Supplies+ Dog & Cat Food
+	6%
+	
+
+Pet Supplies+ Dog & Cat Furniture
+	6%
+	
+
+Pet Supplies+ Dog & Cat Grooming
+	6%
+	
+
+Pet Supplies+ Dog & Cat Healthcare
+	6%
+	
+
+Pet Supplies+ Dog & Cat Litter
+	6%
+	
+
+Pet Supplies+ Farm Animal & Poultry Supplies
+	6%
+	
+
+Pet Supplies+ Fish & Aquatic Supplies
+	6%
+	
+
+Pet Supplies+ Reptile & Amphibian Supplies
+	6%
+	
+
+Pet Supplies+ Small Animal Supplies
+	6%
+	
+
+Phones & Electronics+ Audio & Video
+	6%
+	
+
+Phones & Electronics+ Cameras & Photography
+	6%
+	
+
+Phones & Electronics+ Education Devices
+	6%
+	
+
+Phones & Electronics+ Gaming & Consoles
+	6%
+	
+
+Phones & Electronics+ Mobile Phone Accessories
+	6%
+	
+
+Phones & Electronics+ Phones & Tablets
+	6%
+	
+
+Phones & Electronics+ Smart & Wearable Devices
+	6%
+	
+
+Phones & Electronics+ Tablet & Computer Accessories
+	6%
+	
+
+Phones & Electronics+ Universal Accessories
+	6%
+	
+
+Pre-Owned+ Bags
+	5%
+	Any portion of the sale over $10K, 3%
+
+Pre-Owned+ Collectible Trading Cards
+	5%
+	Any portion of the sale over $10K, 3%
+
+Pre-Owned+ Luggage & Travel
+	5%
+	Any portion of the sale over $10K, 3%
+
+Pre-Owned+ Watches
+	5%
+	Any portion of the sale over $10K, 3%
+
+Pre-Owned+ Footwear
+	5%
+	Any portion of the sale over $10K, 3%
+
+Pre-Owned+ Refurbished Phones & Electronics
+	5%
+	Any portion of the sale over $10K, 3%
+
+Pre-Owned+ Fashion Accessories
+	5%
+	Any portion of the sale over $10K, 3%
+
+Pre-Owned+ Menswear
+	5%
+	Any portion of the sale over $10K, 3%
+
+Pre-Owned+ Womenswear
+	5%
+	Any portion of the sale over $10K, 3%
+
+Pre-Owned+ Collectible Coins and Paper Money
+	5%
+	Any portion of the sale over $10K, 3%
+
+Pre-Owned+ Collectible Figures
+	5%
+	Any portion of the sale over $10K, 3%
+
+Pre-Owned+ Collectible Comic Books
+	5%
+	Any portion of the sale over $10K, 3%
+
+Shoes+ Men's Shoes
+	6%
+	
+
+Shoes+ Shoe Accessories
+	6%
+	
+
+Shoes+ Women's Shoes
+	6%
+	
+
+Sports & Outdoor+ Ball Sports
+	6%
+	
+
+Sports & Outdoor+ Camping & Hiking
+	6%
+	
+
+Sports & Outdoor+ Fan Shop
+	6%
+	
+
+Sports & Outdoor+ Fitness
+	6%
+	
+
+Sports & Outdoor+ Leisure & Outdoor Recreation Equipment
+	6%
+	
+
+Sports & Outdoor+ Sport & Outdoor Clothing
+	6%
+	
+
+Sports & Outdoor+ Sports & Outdoor Accessories
+	6%
+	
+
+Sports & Outdoor+ Sports Footwear
+	6%
+	
+
+Sports & Outdoor+ Swimwear, Surfwear & Wetsuits
+	6%
+	
+
+Sports & Outdoor+ Water Sports
+	6%
+	
+
+Sports & Outdoor+ Winter Sports
+	6%
+	
+
+Textiles & Soft Furnishings+ Bedding and Linens
+	6%
+	
+
+Textiles & Soft Furnishings+ Fabrics & Sewing Supplies
+	6%
+	
+
+Textiles & Soft Furnishings+ Household Textiles
+	6%
+	
+
+Tools & Hardware+ Garden Tools
+	6%
+	
+
+Tools & Hardware+ Hand Tools
+	6%
+	
+
+Tools & Hardware+ Hardware
+	6%
+	
+
+Tools & Hardware+ Measuring Tools
+	6%
+	
+
+Tools & Hardware+ Power Tools
+	6%
+	
+
+Tools & Hardware+ Pumps & Plumbing
+	6%
+	
+
+Tools & Hardware+ Soldering Equipment
+	6%
+	
+
+Tools & Hardware+ Tool Organizers
+	6%
+	
+
+Toys & Hobbies+ Classic & Novelty Toys
+	6%
+	
+
+Toys & Hobbies+ DIY
+	6%
+	
+
+Toys & Hobbies+ Dolls & Stuffed Toys
+	6%
+	
+
+Toys & Hobbies+ Educational Toys
+	6%
+	
+
+Toys & Hobbies+ Electric & Remote Control Toys
+	6%
+	
+
+Toys & Hobbies+ Games & Puzzles
+	6%
+	
+
+Toys & Hobbies+ Musical Instruments & Accessories
+	6%
+	
+
+Toys & Hobbies+ Sports & Outdoor Play
+	6%
+	
+
+Womenswear & Underwear+ Women's Bottoms
+	6%
+	
+
+Womenswear & Underwear+ Women's Dresses
+	6%
+	
+
+Womenswear & Underwear+ Women's Sleepwear & Loungewear
+	6%
+	
+
+Womenswear & Underwear+ Women's Special Clothing
+	6%
+	
+
+Womenswear & Underwear+ Women's Suits & Sets
+	6%
+	
+
+Womenswear & Underwear+ Women's Tops
+	6%
+	
+
+Womenswear & Underwear+ Women's Underwear
+	6%
+	
+Is the content above helpful?
+Previous
+TikTok Shop Referral Fee Updates - 2024
+Table of contents
+Category Referral Rates

@@ -1,0 +1,99 @@
+{
+  "csv_vs_current_xlsx": {
+    "businesses.csv": {
+      "rows": 9754,
+      "cell_mismatches": 0,
+      "examples": []
+    },
+    "market_daily.csv": {
+      "rows": 30,
+      "cell_mismatches": 0,
+      "examples": []
+    },
+    "market_sources.csv": {
+      "rows": 7,
+      "cell_mismatches": 0,
+      "examples": []
+    },
+    "market_categories.csv": {
+      "rows": 18,
+      "cell_mismatches": 0,
+      "examples": []
+    },
+    "buyers.csv": {
+      "rows": 15,
+      "cell_mismatches": 0,
+      "examples": []
+    },
+    "buyers_by_region.csv": {
+      "rows": 89,
+      "cell_mismatches": 0,
+      "examples": []
+    }
+  },
+  "business_metrics": {
+    "rows": 9754,
+    "duplicate_ids": 0,
+    "goods_non_referral": 4055,
+    "Подключён чекаут": {
+      "positive_rows": 3734,
+      "sum": 3734
+    },
+    "Подключена доставка": {
+      "positive_rows": 782,
+      "sum": 782
+    },
+    "Подключена оплата": {
+      "positive_rows": 206,
+      "sum": 206
+    },
+    "Заказы через чекаут": {
+      "positive_rows": 268,
+      "sum": 3159
+    },
+    "GMV через чекаут, ₽": {
+      "positive_rows": 262,
+      "sum": 9144537
+    },
+    "Траты на рекламу всего, ₽": {
+      "positive_rows": 261,
+      "sum": 59603942
+    },
+    "checkout_off_with_orders": 14,
+    "orders_with_zero_gmv_ids": [
+      4474,
+      1663,
+      3307,
+      3588,
+      4412,
+      6175,
+      9036
+    ],
+    "product_posts_exceed_posts": 11
+  },
+  "totals": {
+    "market_daily.csv": {
+      "Открытия карточки: Маркет Вконтакте": 193512461.0,
+      "Открытия карточки: Партнёр 1": 86882822.0,
+      "Заказы: Маркет Вконтакте": 413740.0,
+      "Заказы: Партнёр 1": 4927525.0,
+      "Оплаченные заказы: Маркет Вконтакте": 4903.0,
+      "GMV, ₽: Маркет Вконтакте": 1564546740.0,
+      "GMV, ₽: Партнёр 1": 5119514684.0
+    },
+    "market_categories.csv": {
+      "Открытия карточки: Маркет Вконтакте": 193472512.0,
+      "Заказы: Маркет Вконтакте": 435285.0,
+      "Открытия карточки: Партнёр 1": 86880602.0,
+      "Заказы: Партнёр 1": 4557517.0
+    },
+    "buyers.csv": {
+      "Заказы: Маркет Вконтакте": 413334.0,
+      "Заказы: Партнёр 1": 4557253.0
+    },
+    "buyers_by_region.csv": {
+      "Заказы: Маркет Вконтакте": 413334.0,
+      "Заказы: Партнёр 1": 4557253.0
+    }
+  }
+}

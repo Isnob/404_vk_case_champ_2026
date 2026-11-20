@@ -1,0 +1,88 @@
+# Очередь проверки источников в Chrome
+
+Ссылки извлечены из черновиков. Их наличие не означает, что содержимое подтверждает тезис. Доступность и достоверность пока не проверялись.
+
+- [Источник 1](https://corp.vkcdn.ru/media_s3/corp-site-prod/files/rus_results_presentation_q3_2026.pdf) — docs/market_research_1_4.md:17
+- [Источник 2](https://vk.company/ru/press/releases/12255/) — docs/market_research_1_4.md:21, docs/market_research_1_4.md:24
+- [Источник 3](https://corp.vkcdn.ru/media_s3/corp-site-prod/files/edinyij-godovoj-otchet-vk-2025_JRDh4pd.pdf) — docs/market_research_1_4.md:21
+- [Источник 4](https://www.vedomosti.ru/investments/news/2026/03/19/1183968-viruchka-vk) — docs/market_research_1_4.md:22
+- [Источник 5](https://www.interfax.ru/business/1078767) — docs/market_research_1_4.md:25
+- [Источник 6](https://m.vk.ru/press/shops-2025) — docs/market_research_1_4.md:25
+- [Источник 7](https://seller-edu.ozon.ru/commissions-tariffs/legal-information/full-actual-commissions) — docs/market_research_1_4.md:84
+- [Источник 8](https://seller-edu.ozon.ru/commissions-tariffs/commissions-tariffs-ozon/rashody-na-dostavku) — docs/market_research_1_4.md:84, docs/market_research_1_4.md:87
+- [Источник 9](https://seller.ozon.ru/media/news/novoe-v-tarifah-na-logistiku-i-prodazhu/) — docs/market_research_1_4.md:84
+- [Источник 10](https://pay.yandex.ru/blog/articles/komissija-ozon) — docs/market_research_1_4.md:84, docs/market_research_1_4.md:85
+- [Источник 11](https://seller-edu.ozon.ru/commissions-tariffs/additional-information/faq) — docs/market_research_1_4.md:86
+- [Источник 12](https://ir.ozon.com/ru/sth/ozon-obyavlyaet-finansovye-rezultaty-za-chetvertyy-kvartal-2025-goda-i-2025-god-18833bbf) — docs/market_research_1_4.md:89
+- [Источник 13](https://corp.ozon.ru/ru/sth/vyruchka-ozon-v-2025-godu-dostigla-998-mlrd-rubley-861b0820) — docs/market_research_1_4.md:89
+- [Источник 14](https://pay.yandex.ru/blog/articles/komissiya-wildberries-dlya-prodavtsov-v-2026-godu) — docs/market_research_1_4.md:95, docs/market_research_1_4.md:95
+- [Источник 15](https://jvo.ru/blog/komissii-dlya-prodavcov) — docs/market_research_1_4.md:95
+- [Источник 16](https://www.interfax.ru/business/1082241) — docs/market_research_1_4.md:96
+- [Источник 17](https://pravo.ru/news/263119/) — docs/market_research_1_4.md:96
+- [Источник 18](https://www.vedomosti.ru/business/news/2025/06/10/1116298-fas-soobschila) — docs/market_research_1_4.md:97
+- [Источник 19](http://publication.pravo.gov.ru/document/0001202507310020) — docs/market_research_1_4.md:97
+- [Источник 20](https://www.interfax.ru/russia/1103668) — docs/market_research_1_4.md:97
+- [Источник 21](https://www.avito.ru/journal/articles/rasskazyvaem_pro_avito_mall) — docs/market_research_1_4.md:102
+- [Источник 22](https://www.avito.ru/business/tariffs) — docs/market_research_1_4.md:103
+- [Источник 23](https://support.avito.ru/sections/1710) — docs/market_research_1_4.md:103
+- [Источник 24](https://www.avito.ru/blog/kak-tarif-s-oplatoy-za-uspeshnuyu-sdelku-na-avito-mozhet-prokachat-vashi-prodazhi) — docs/market_research_1_4.md:103
+- [Источник 25](https://www.avito.ru/blog/kak-ustroen-tarif-s-oplatoy-za-prosmotry-na-avito-uslugah) — docs/market_research_1_4.md:103
+- [Источник 26](https://core.telegram.org/bots/payments) — docs/market_research_1_4.md:108
+- [Источник 27](https://ads.telegram.org/getting-started) — docs/market_research_1_4.md:110
+- [Источник 28](https://elama.ru/blog/popolnyaem-balans-telegram-ads-instrukciya/) — docs/market_research_1_4.md:110
+- [Источник 29](https://elama.ru/blog/mts-marketolog-mts-marketolog-pro-ili-kabinet-telegram-ads-chto-vybrat-dlya-zapuska-reklamy/) — docs/market_research_1_4.md:110
+- [Источник 30](https://marketolog.mts.ru/telegram) — docs/market_research_1_4.md:110
+- [Источник 31](https://blog.click.ru/markirovka-reklamy/avtomaticheskaya-markirovka-reklamy-v-telegram-ads/) — docs/market_research_1_4.md:110
+- [Источник 32](https://elama.ru/blog/skolko-stoit-reklama-v-telegram/) — docs/market_research_1_4.md:112
+- [Источник 33](https://elama.ru/blog/1500-vmesto-3000-snizhen-minimalnyy-reklamnyy-byudzhet-na-telegram-ads/) — docs/market_research_1_4.md:112
+- [Источник 34](https://www.forbes.ru/svoi-biznes/544859-zapret-reklamy-v-instagram-s-1-sentabra-cto-mozno-i-nel-za-publikovat) — docs/market_research_1_4.md:116
+- [Источник 35](https://e-kontur.ru/blog/16035) — docs/market_research_1_4.md:116
+- [Источник 36](https://www.setters.media/post/instagram-zapret-reklamy-1-sentyabrya-2025) — docs/market_research_1_4.md:116
+- [Источник 37](https://adblogger.vk.com/) — docs/market_research_1_4.md:117
+- [Источник 38](https://tilda.cc/ru/pricing/) — docs/market_research_1_4.md:120
+- [Источник 39](https://tilda.cc/ru/build-online-store/) — docs/market_research_1_4.md:120
+- [Источник 40](https://help-ru.tilda.cc/online-store/online-kassa) — docs/market_research_1_4.md:120
+- [Источник 41](https://flowwow.com/blog/komissiya-na-flowwow-kak-menyaetsya-logika-nachisleniya-i-tarify/) — docs/market_research_1_4.md:124
+- [Источник 42](https://flowwow.com/blog/povyshenie-stavki-nds-s-1-yanvarya-2026-goda-kak-zatronet-sellerov-flowwow/) — docs/market_research_1_4.md:124
+- [Источник 43](https://seller-docs.flowwow.com/4.-finansovye-usloviya-i-komissii/4.1-vyplaty) — docs/market_research_1_4.md:124
+- [Источник 44](https://flowwow.com/blog/kak-poluchat-zakazy-s-0-komissiey/) — docs/market_research_1_4.md:125
+- [Источник 45](https://hashmeta.com/blog/douyin-vs-xiaohongshu-the-ultimate-guide-to-social-commerce-success-in-china/) — docs/market_research_1_4.md:142, docs/market_research_1_4.md:165
+- [Источник 46](https://socialtale.co/blog/tiktok-shop-conversion-rate-benchmarks) — docs/market_research_1_4.md:142, docs/market_research_1_4.md:150
+- [Источник 47](https://socialcommerceclub.com/blogs/tiktok-shop/tiktok-shop-conversion-rate-how-it-compares-to-every-platform) — docs/market_research_1_4.md:142, docs/market_research_1_4.md:150
+- [Источник 48](https://multilogin.com/blog/tiktok-shop-fees/) — docs/market_research_1_4.md:147
+- [Источник 49](https://redstagfulfillment.com/what-is-average-tiktok-shop-order-value/) — docs/market_research_1_4.md:147
+- [Источник 50](https://www.demandsage.com/tiktok-shop-statistics/) — docs/market_research_1_4.md:147
+- [Источник 51](https://www.kalodata.com/blog/tiktok/the-2026-tiktok-sales-report-best-selling-products-data-driven-insights/) — docs/market_research_1_4.md:147
+- [Источник 52](https://www.theredscroll.com/insights/china-social-commerce-compared/) — docs/market_research_1_4.md:153, docs/market_research_1_4.md:158
+- [Источник 53](https://jingdaily.com/posts/what-did-we-learn-studying-douyins-100-top-performing-e-commerce-campaigns) — docs/market_research_1_4.md:153
+- [Источник 54](https://walkthechat.com/livestreaming-in-china-in-2025-how-to-get-started/) — docs/market_research_1_4.md:153
+- [Источник 55](https://eu.36kr.com/en/p/3897635059402375) — docs/market_research_1_4.md:154
+- [Источник 56](https://hashmeta.com/blog/xiaohongshu-ads-vs-douyin-ads-a-comprehensive-cost-conversion-comparison/) — docs/market_research_1_4.md:154, docs/market_research_1_4.md:171
+- [Источник 57](https://www.theredscroll.com/industries/fashion-apparel/) — docs/market_research_1_4.md:156
+- [Источник 58](https://marketingtochina.com/douyin-ecommerce-fashion-brands/) — docs/market_research_1_4.md:156
+- [Источник 59](https://m.36kr.com/p/3041416333766915) — docs/market_research_1_4.md:156
+- [Источник 60](https://kr-asia.com/douyin-reshapes-strategy-to-cut-merchant-costs-as-gmv-grows) — docs/market_research_1_4.md:158
+- [Источник 61](https://eu.36kr.com/en/p/3480136952077441) — docs/market_research_1_4.md:158
+- [Источник 62](https://walkthechat.com/xiaohongshu-little-red-book-fostering-e-commerce-via-word-mouth/) — docs/market_research_1_4.md:165
+- [Источник 63](https://prizmdigital.co.nz/xiaohongshu-e-commerce-shop-guide/) — docs/market_research_1_4.md:165
+- [Источник 64](https://en.meetsocial.com/blog/xiaohongshu-vs-tiktok) — docs/market_research_1_4.md:165
+- [Источник 65](https://www.investing.com/news/transcripts/earnings-call-tencent-q3-2024-reports-revenue-growth-and-ai-expansion-93CH-3722552) — docs/market_research_1_4.md:177
+- [Источник 66](https://www.allvalue.com/en/wechat) — docs/market_research_1_4.md:177
+- [Источник 67](https://pay.weixin.qq.com/wechatpay_h5/pages/product/miniapp.shtml) — docs/market_research_1_4.md:177
+- [Источник 68](https://www.sixthtone.com/news/1009368) — docs/market_research_1_4.md:177
+- [Источник 69](https://www.sf-express.com/chn/en/support-more/qiao) — docs/market_research_1_4.md:187
+- [Источник 70](https://regional.chinadaily.com.cn/Qiushi/2025-01/14/c_1064137.htm) — docs/market_research_1_4.md:187
+- [Источник 71](https://seller-us.tiktok.com/university/essay?knowledge_id=8644984183162670&lang=en) — docs/market_research_1_4.md:188
+- [Источник 72](https://id.vk.ru/about/faq/business/vkpay/fiscalization/40012) — docs/market_research_1_4.md:208, docs/market_research_1_4.md:209
+- [Источник 73](https://id.vk.ru/about/faq/business/vkpay/fiscalization/40013) — docs/market_research_1_4.md:208
+- [Источник 74](https://id.vk.ru/about/faq/business/vkpay/connection/40014) — docs/market_research_1_4.md:208
+- [Источник 75](https://robokassa.com/payments/instrumenty-oplaty/messendzher-boty/) — docs/market_research_1_4.md:208
+- [Источник 76](https://albato.ru/integration-vkmarket-robokassa) — docs/market_research_1_4.md:208
+- [Источник 77](https://online-check.business.ru/rejting-oblachnykh-kass/) — docs/market_research_1_4.md:210
+- [Источник 78](https://secrets.tbank.ru/voprosy-otvety/nuzhna-li-onlayn-kassa-marketpleysu/) — docs/market_research_1_4.md:216
+- [Источник 79](https://e-kontur.ru/enquiry/2061/nuzhna_li_online_kassa_marketplace) — docs/market_research_1_4.md:216
+- [Источник 80](https://flowwow.com/blog/s-kak-selleram-uchityvat-vyplaty-ot-flowwow/) — docs/market_research_1_4.md:217
+- [Источник 81](https://flowwow.com/blog/kak-formiruetsya-otchetnost-dlya-prodavcov-flowwow/) — docs/market_research_1_4.md:217
+- [Источник 82](https://www.avito.ru/journal/articles/onlayn_kassa_dlya_ip_i_ooo) — docs/market_research_1_4.md:218
+- [Источник 83](https://vk.ru/@business-instrukciya-po-dostavke) — docs/market_research_1_4.md:225
+- [Источник 84](https://cdek-tk.ru/integration/vk/) — docs/market_research_1_4.md:225

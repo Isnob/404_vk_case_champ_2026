@@ -1,0 +1,11 @@
+# macOS & Editor
+.DS_Store
+.obsidian/
+
+# Python / Linters
+__pycache__/
+*.pyc
+.ruff_cache/
+
+# Local browser HTML dumps
+sites/

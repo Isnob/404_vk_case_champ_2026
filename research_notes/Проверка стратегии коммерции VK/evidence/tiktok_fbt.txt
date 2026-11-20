@@ -1,0 +1,176 @@
+Seller community
+Log in
+AI Seller Center
+ACE Toolkit
+Onboarding
+Get Started
+Integrate with TikTok Shop
+Manage Account
+Order Management
+Order Fulfillment
+Manage Products
+TikTok Shipping
+Ways to Sell
+Fulfillment & Logistics
+Returns & Refunds
+Seller Shipping: Overview and Services
+Legacy TikTok Shipping: Overview
+TikTok Shop US Logistics Services Overview
+How to Process "Legacy TikTok Shipping" Orders?
+Scheduling a Pickup or Dropoff
+USPS Manifest
+TikTok Shop: Five Ways to Set Up Free Shipping
+3-day delivery
+Signature Confirmation for High-Risk Orders
+Having Issues Printing Labels?
+How to File a Reimbursement Claim for Legacy TikTok Shipping Logistics Issues
+Label Printing for Hazmat and Dangerous Goods
+Estimated Delivery Time (EDT) Seller Configuration Process
+Shipment Optimization
+New Seller Pre Shipment Setting
+Shipping Insurance
+Fulfilled by TikTok (FBT)
+Free Shipping page feature guide
+Logistics Overview and Seller Center Navigation
+US Warehouse Management
+【US-MX】FBT US Sharing Inventory With MX shop
+Free Shipping FAQ Guide
+Fulfilled by TikTok (FBT) Product Packaging Requirements
+FBT Goods Creation, Matching, and Management Process
+[US-MX Program] TikTok Shop Official Shipping Fee Policy
+FBT Inbound Request (IBR) Creation and Management Process
+TikTok Shop 2026 FBT Quarterly Incentive Program
+Promotions
+Marketing
+Growth
+Customers (CRM)
+Growth Opportunities
+Affiliate Center
+Customer Messages
+Account Closure
+Analytics
+Account Health
+Finances
+Agencies & Services
+Terms and Conditions
+Seller Spending Insights
+Affiliate Creatives for Ads (ACA) - Setting Commission Rates
+US Academy › Feature Guide › Seller › Fulfillment & Logistics
+Fulfilled by TikTok (FBT)
+Updated at:
+08/06/2026
+AI Summary
+
+FBT is TikTok Shop’s in-house fulfillment service that stores, packs, and ships orders, offering free 3-day delivery on eligible items and 24-hour processing, which can lower fulfillment costs by 20%–35% and improve exposure and conversion. It’s built for sellers who want faster delivery and less operational work. To start, join via Seller Center > Fulfilled by TikTok or the FBT Portal: https://scm-us.tiktok.com/home, then create an inbound shipment and send inventory.
+
+What is FBT
+Fulfilled by TikTok (FBT) is TikTok Shop’s in-house service that handles storage, packing, and shipping for you. With free 3-day delivery for customers on eligible items, FBT helps you drive more sales by offering a seamless shopping experience. Just send us your products and we’ll do the rest. Join Now
+Deliver faster with FBT fulfillment network
+3-day shipping across the U.S
+Enhance customer experience with our 3-day shipping service that covers over 80% of U.S orders.
+
+24-hour processing time
+Ship the package within 24 hours of receiving the order.
+
+Ship from 20+ locations
+Ship from locations close to your customers using our hubs on both coasts and 14 fulfillment centers across different options.
+
+Why Choose FBT
+Key Advantage:
+Reliable and Efficient Fulfillment
+FBT delivers eligible products within 3 business days, ensuring a consistent and efficient delivery experience that minimizes return rates and drives higher customer satisfaction and loyalty. 98% of FBT orders are shipped within 1 calendar day, 80% are 3-day end-to-end delivery.
+Cost-Efficient Fulfillment
+FBT offers more competitive shipping rates compared to mainstream carriers, helping sellers significantly reduce fulfillment costs. Based on our platform data, you can cut per-order costs by about 20% to 35% on average, depending on the product and shipping route. You also get 60 days of free storage for each inbound shipment to help you grow and manage inventory with minimal operational burden.
+Source: Internal TTS Data, August 1, 2025
+Improved Sales Conversion
+Eligible products fulfilled by FBT receive a “Free 3-Day Delivery” tag, which helps them stand out in TikTok Shop search results and recommendations. This tag signals faster shipping and a more reliable shopping experience for customers, which can improve product visibility. Based on recent internal analysis, many newly-inbounded FBT products saw a 40% or more increase in daily product views, and an average 15% or more increase in conversion rate — driven by better placement and stronger exposure from TikTok content. Joining FBT can be an effective way to increase exposure and stay competitive.
+Source: Internal TTS Data, July 15, 2025 to August 3, 2025
+Better Campaign Growth
+During Black Friday 2025, FBT products showed nearly 2× growth of overall TikTok Shop products. FBT products GMV increased by more than 89%.
+
+Complete Order Protection
+All FBT orders are fully managed by TikTok Shop’s fulfillment system. Logistics-related issues—including late dispatches, cancellations, non-buyer fault return&refund and negative reviews — are excluded from seller performance metrics. In the event of lost or damaged parcels, TikTok Shop ensures timely reimbursement through a robust claims process.
+One System for Creator and Customer Orders
+FBT handles the entire fulfillment process for creator samples, with the same fast shipping and service as regular customer orders—saving you time and effort. With streamlined logistics, FBT makes it easier to work with top creators and manage more complex needs like expiration dates, product bundles, and special categories.
+Key Data:
+Conversion uplift
+Data indicates that adding the 3-Day Delivery(3DD) tag to FBT products significantly drive conversion. For the same product over the same time period, orders with 3DD tag on average had a 15-20% higher conversion rate. This confirms that emphasizing faster delivery positively influences user behavior. In addition, FBT products consistently receive greater exposure compared to non-FBT listings.
+
+Source: Internal TTS Data, June 9, 2025 to June 22, 2025
+Additional Traffic
+A dedicated "FBT Free 3-Day Shipping" channel has been added under “Deals for You”. During promotional periods, most FBT products with the Free 3-Day Shipping tag are featured in this channel. Banners on the platform will direct customers to the channel, and the majority of FBT items are included in the “Deals for You” promotion pool.
+TikTok Shop features a dedicated FBT Channel that showcases items with free and fast shipping. This channel includes a bold green highlight to catch customer attention and clearly signals reliable free 3-day delivery. Being featured in this channel can help increase product visibility and attract more high-intent shoppers looking for quick and trustworthy fulfillment.
+Fast Delivery
+Our analysis of the top 40 health industry sellers shows that those using FBT for more than 30% of their orders have an average delivery time of 83.65 hours, with 82.7% of orders delivered within 3 days.
+
+Sellers using FBT for less than 30% of orders have a longer average delivery time of 139.72 hours, with only 43.3% delivered within 3 days. This clearly highlights how FBT speeds up logistics.
+
+Source: Internal TTS Data, July 20, 2025
+FBT Usage
+	End to End Leadtime (Hrs)
+	3 Day Delivery Pkg %
+
+
+FBT usage > 30%
+	83.65
+	82.70%
+
+
+FBT usage < 30%
+	139.72
+	43.30%
+Competitive Pricing
+
+The Data Intelligence team analyzed logistics costs for the top 40 health industry sellers, comparing them to average UPS/USPS shipping rates. They found that over 80% of these sellers saved a significant amount on fulfillment costs by using FBT. On average, the cost per unit dropped by 20-35%, allowing sellers to reinvest those savings into marketing to help grow their sales even more.
+
+Source: Internal TTS Data, August 1, 2025
+Rate Card
+See FBT Rate Card & Frequently Asked Questions for more details.
+
+How to Onboard FBT Join Now
+Live Demo: https://scm-us.tiktok.com/home
+Join the Waitlist / Get Started Join Now
+Navigate to the Seller Center > "Fulfilled by TikTok" and "Join the Waitlist" / "Get Started"
+
+Creating your first Inbound order
+Follow a simple 4 step guide to start your FBT journey: 1) Navigate to FBT Portal; 2) Set up which product you are going to send to FBT; 3) Create inbound shipments; 4) Send your inventory to FBT. All set!
+
+Navigate to the FBT Portal
+FBT portal can be accessed from Seller Center > Fulfilled by TikTok. Login is required.
+Or FBT Portal can be directly accessed from this link - https://scm-us.tiktok.com/home
+Set up which product to send to FBT
+We have already imported your SKUs from Seller Center to FBT Portal
+Go to FBT Portal -> Goods to fill in additional SKU details (barcodes, expiration date, etc)
+Refer to this link for additional guidance
+Create your first inbound shipment
+Follow the Inbound preparation guide to create your first shipment with additional help content
+Send your inventory to FBT and start tracking！
+Follow FBT Portal > Inbound > Inbound orders, book delivery appointments with FBT if inventory is sent in pallets, or fill in tracking ID to gain more visibility if inventory is sent in small parcels
+You can view the tracking status on the right side of the page
+Is the content above helpful?
+Previous
+Shipping Insurance
+Next
+Free Shipping page feature guide
+Table of contents
+What is FBT
+Deliver faster with FBT fulfillment network
+3-day shipping across the U.S
+24-hour processing time
+Ship from 20+ locations
+Why Choose FBT
+Key Advantage:
+Reliable and Efficient Fulfillment
+Cost-Efficient Fulfillment
+Improved Sales Conversion
+Better Campaign Growth
+Complete Order Protection
+One System for Creator and Customer Orders
+Key Data:
+Conversion uplift
+Additional Traffic
+Fast Delivery
+Rate Card
+How to Onboard FBT Join Now
+Join the Waitlist / Get Started Join Now
+Creating your first Inbound order
