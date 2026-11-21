@@ -9,3 +9,6 @@ __pycache__/
 
 # Local browser HTML dumps
 sites/
+
+# Local meeting recordings
+docs/meeting/
